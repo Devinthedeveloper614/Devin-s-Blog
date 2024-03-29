@@ -1,0 +1,53 @@
+
+
+/* Light mode styles */
+body.light-mode {
+    font-family: Arial, sans-serif;
+    background-color: #fff; /* White background */
+    color: #000; /* Black text */
+}
+.box-3{
+    display: block;
+}
+
+body.light-mode .title {
+    width: 50%;
+}
+
+body.light-mode .features {
+    width: 100%;
+}
+
+body.light-mode #heading {
+    font-weight: bold;
+    font-size: large;
+    text-align: left;
+}
+
+body.light-mode #light {
+    text-align: right;
+    display: block;
+}
+
+body.light-mode #back {
+    text-align: right;
+    display: block;
+}
+
+body.light-mode h4 {
+    border-bottom: 1px solid rgb(246, 245, 245);
+    margin: 20px 0;
+}
+
+body.light-mode header {
+    border-bottom: 10px double black;
+    height: 20%;
+}
+
+/* Light mode styles for titles */
+body.light-mode .title1,
+body.light-mode .title2,
+body.light-mode .title3,
+body.light-mode .title4 {
+    background-color: #fff; /* White background */
+}
